@@ -1,4 +1,4 @@
-Django~=6.0
+Django~=5.2
 djangorestframework~=3.16.1
 gunicorn
 pillow~=12.0.0
